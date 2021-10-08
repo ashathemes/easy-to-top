@@ -1,0 +1,12 @@
+#scrollUp {
+    bottom: 20px;
+    right: 20px;
+    background: #252525;
+    color: #fff;
+    font-size: 30px;
+    opacity: 0.5;
+    padding: 4px 10px;
+}
+#scrollUp:hover {
+    opacity:1;
+}
